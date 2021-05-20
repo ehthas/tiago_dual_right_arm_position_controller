@@ -1,0 +1,5 @@
+<library path="lib/libtiago_dual_right_arm_position_controller_lib">
+    <class name="tiago_dual_right_arm_position_controller/JointPositionController"            
+           type="tiago_dual_right_arm_position_controller_ns::JointPositionController" 
+           base_class_type="controller_interface::ControllerBase" />
+</library>
